@@ -1,0 +1,6 @@
+main: com.puddingkc.KcAnimPAPI
+name: KcAnimPAPI
+version: 1.0.1
+api-version: "1.16"
+depend:
+  - "PlaceholderAPI"
