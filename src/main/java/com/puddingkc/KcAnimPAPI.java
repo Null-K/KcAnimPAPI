@@ -12,6 +12,8 @@ import java.util.regex.Pattern;
 
 public class KcAnimPAPI extends JavaPlugin {
 
+    // 懒得写了
+
     public final Map<String, AnimationData> animations = new HashMap<>();
 
     @Override
